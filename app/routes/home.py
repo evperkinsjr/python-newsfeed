@@ -6,7 +6,7 @@ bp = Blueprint('home', __name__, url_prefix='/')
 
 @bp.route('/')
 def index():
-    # get all posts
+    # get posts
     db = get_db()
     posts = db.query(Post).order_by(Post.created_at.desc()).all()
 

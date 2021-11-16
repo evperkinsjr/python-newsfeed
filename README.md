@@ -9,7 +9,7 @@ The application was deployed using Heroku.
 - [Project Repository](https://github.com/evperkinsjr/python-newsfeed)
 
 
-
+![Screen Shot 2021-11-16 at 6 07 07 PM](https://user-images.githubusercontent.com/79537431/142080590-f419861f-04b7-4b04-aa9d-f04909a3ad71.png)
 
 
 ## Technologies Used

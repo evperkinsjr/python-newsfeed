@@ -5,11 +5,11 @@
 For this project, I used Python and Flask refactored the back end of a news application originally built with Node and Handlebars. Just Tech News, lets users post links to tech-related articles, comment on other users' posts, and upvote posts.
 
 The application was deployed using Heroku.
-- [Live Application](#)
+- [Live Application](https://twilight-feather-9881.herokuapp.com/)
 - [Project Repository](https://github.com/evperkinsjr/python-newsfeed)
 
 
-![Screen Shot 2021-11-16 at 6 07 07 PM](https://user-images.githubusercontent.com/79537431/142080590-f419861f-04b7-4b04-aa9d-f04909a3ad71.png)
+![python_newsfeed_screenshot](https://user-images.githubusercontent.com/79537431/142084417-7571f794-1a28-4d86-a51b-d8050846bb93.png)
 
 
 ## Technologies Used

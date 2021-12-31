@@ -2,7 +2,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-For this project, I used Python and Flask refactored the back end of a news application originally built with Node and Handlebars. Just Tech News, lets users post links to tech-related articles, comment on other users' posts, and upvote posts.
+For this project, I used Python and Flask to refactor the back end of a news application originally built with Node and Handlebars. Just Tech News, lets users post links to tech-related articles, comment on other users' posts, and upvote posts.
 
 The application was deployed using Heroku.
 - [Live Application](https://twilight-feather-9881.herokuapp.com/)
